@@ -1,3 +1,5 @@
+https://github.com/mishatsyp/AI - репозиторий мишы
+
 станции метро по городам России - https://api.hh.ru/metro/
 
 ## moscow_metro.csv и other_cities
