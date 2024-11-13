@@ -2,6 +2,8 @@ https://github.com/mishatsyp/AI - репозиторий мишы
 
 https://github.com/Vex2cK/vsrs2 - репа вексика
 
+https://github.com/tmbochka/dl-club -  юля
+
 станции метро по городам России - https://api.hh.ru/metro/
 
 ## moscow_metro.csv и other_cities
