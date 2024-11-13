@@ -1,6 +1,7 @@
 https://github.com/mishatsyp/AI - репозиторий мишы
 
 https://github.com/Vex2cK/vsrs2 - репа вексика
+https://www.kaggle.com/code/vex1ck/dssm2 - и еще одна
 
 https://github.com/tmbochka/dl-club -  юля
 
