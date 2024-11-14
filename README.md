@@ -4,6 +4,7 @@ https://github.com/Vex2cK/vsrs2 - репа вексика
 https://www.kaggle.com/code/vex1ck/dssm2 - и еще одна
 
 https://github.com/tmbochka/dl-club -  юля
+https://github.com/DmitryVolovikov/Vseros_po_Ai - Дима
 
 станции метро по городам России - https://api.hh.ru/metro/
 
